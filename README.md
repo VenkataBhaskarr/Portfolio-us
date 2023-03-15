@@ -1,1 +1,1 @@
-## This is a project that is being constructed using reactJS,tailwindcss and threejs
+## This is a project that is being constructed using reactjs,tailwindcss and threejs
