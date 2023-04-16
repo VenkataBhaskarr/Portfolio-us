@@ -1,2 +1,2 @@
-## This is a project that is being constructed using reactjs,tailwindcss and threejs
+## This might not be builded from scratch but planning to create it by forking some other repositories
 ``` paused ```
